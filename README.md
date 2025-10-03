@@ -1,7 +1,7 @@
 # ¡Hola, soy Cristina Vacas López! 👋
 
 ¡Bienvenid@ a mi perfil de GitHub!  
-Soy Técnico Superior en Administración de Sistemas Informáticos y Redes, y en Desarrollo de Aplicaciones Web. Próximamente, comenzaré una especialización en Inteligencia Artificial y Big Data (octubre 2025), siempre buscando nuevos retos y aprendizajes en el mundo de la tecnología.
+Soy Técnico Superior en Administración de Sistemas Informáticos y Redes, y en Desarrollo de Aplicaciones Web. Actualmente, estoy cursando una especialización en Inteligencia Artificial y Big Data en CPIFP Alan Turing en colaboracion con Accenture, siempre buscando nuevos retos y aprendizajes en el mundo de la tecnología.
 
 ## 🚀 Sobre mí
 
