@@ -1,7 +1,7 @@
 # ¡Hola, soy Cristina Vacas López! 👋
 
 ¡Bienvenid@ a mi perfil de GitHub!  
-Soy Técnico Superior en Administración de Sistemas Informáticos y Redes, y en Desarrollo de Aplicaciones Web. Actualmente, estoy cursando una especialización en Inteligencia Artificial y Big Data en CPIFP Alan Turing en colaboracion con Accenture, siempre buscando nuevos retos y aprendizajes en el mundo de la tecnología.
+Soy Técnico Superior en Administración de Sistemas Informáticos y Redes, y en Desarrollo de Aplicaciones Web, con experiencia como Manager IT. Actualmente, estoy cursando una especialización en Inteligencia Artificial y Big Data en CPIFP Alan Turing en colaboracion con Accenture, siempre buscando nuevos retos y aprendizajes en el mundo de la tecnología.
 
 ## 🚀 Sobre mí
 
@@ -11,13 +11,14 @@ Soy Técnico Superior en Administración de Sistemas Informáticos y Redes, y en
 
 ## 🛠️ Tecnologías y habilidades
 
-- **Backend:** PHP, Laravel, Java
+- **Backend:** PHP, Laravel, Java, Python, NodeJS, FastAPI
 - **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS
 - **Otros:** WebSockets, API, Fetch, Axios...
 
 ## 🌟 Proyecto destacado
 
 ### Gestor de Seguros para Administradores de Fincas y Corredores de Seguros
+### Proximamente: Asistente Inteligente Planificador Alimentario.
 
 Desarrollé una aplicación web completa para la gestión de comunidades, pólizas y siniestros, con funcionalidades avanzadas como:
 - Gestión de usuarios y roles personalizados
