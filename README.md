@@ -18,12 +18,13 @@ Soy Técnico Superior en Administración de Sistemas Informáticos y Redes, y en
 ## 🌟 Proyecto destacado
 
 ### Gestor de Seguros para Administradores de Fincas y Corredores de Seguros
-### Proximamente: Asistente Inteligente Planificador Alimentario.
 
 Desarrollé una aplicación web completa para la gestión de comunidades, pólizas y siniestros, con funcionalidades avanzadas como:
 - Gestión de usuarios y roles personalizados
 - Chat en tiempo real mediante WebSocket
 - Administración intuitiva de comunidades, pólizas y siniestros
+
+### Proximamente: Asistente Inteligente Planificador Alimentario.
 
 ¿Quieres saber más? ¡No dudes en preguntarme!
 
